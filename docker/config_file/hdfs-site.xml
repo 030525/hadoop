@@ -1,0 +1,6 @@
+<configuration>
+    <property>
+        <name>dfs.namenode.secondary.http-address</name>
+        <value>slave1:9868</value>
+    </property>
+</configuration>
